@@ -3,7 +3,6 @@ The stuff in the file just replaces the contents of `bool CTable::GetLine(unsign
 
 Of course, it won't work right if the client doesn't support UTF-8, so don't try it on putty.
 
-### Screenshot:
-![Boxes!](boxes.png)
+![Boxes!](http://i.imgur.com/uLhIZ.png)
 
 Much better than the old stuff.
